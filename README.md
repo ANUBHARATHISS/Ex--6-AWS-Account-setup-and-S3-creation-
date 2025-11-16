@@ -59,6 +59,7 @@ You can also upload a folder to the bucket. If your local folder contains subfol
 ### Step 5: Delete the Bucket
 
 To delete a bucket, you must retype the bucket name. This policy is implemented by Amazon to confirm your action because deleting a bucket can remove large amounts of data.
+
 ![WhatsApp Image 2025-11-16 at 5 15 26 PM](https://github.com/user-attachments/assets/7efed0ca-5be6-43e3-a9de-6ada593aa01b)
 ![WhatsApp Image 2025-11-16 at 5 50 03 PM](https://github.com/user-attachments/assets/b21e773d-edf3-4482-84ed-1e6eb1ca633e)
 
