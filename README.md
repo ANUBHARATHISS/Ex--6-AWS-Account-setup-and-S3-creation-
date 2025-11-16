@@ -28,8 +28,9 @@ After selecting the S3 service, click on the "Create Bucket" button on the page.
 ![WhatsApp Image 2025-11-16 at 5 01 41 PM](https://github.com/user-attachments/assets/80fc5442-a696-4e2e-aea8-41e03350b5a4)
 ![WhatsApp Image 2025-11-16 at 5 02 10 PM](https://github.com/user-attachments/assets/01506903-28f2-425f-8cc4-c9caf120dc6f)
 ![WhatsApp Image 2025-11-16 at 5 02 26 PM](https://github.com/user-attachments/assets/af8aef88-49eb-4799-9ff9-f92e0fc1fce8)
-![WhatsApp Image 2025-11-16 at 5 03 01 PM](https://github.com/user-attachments/assets/cc7a6b4e-e89c-4522-952b-e822805031e1)
-![WhatsApp Image 2025-11-16 at 5 03 26 PM](https://github.com/user-attachments/assets/58e3d31f-feba-41f3-b463-a4b041c9a9eb)
+![WhatsApp Image 2025-11-16 at 5 28 19 PM](https://github.com/user-attachments/assets/ef109c18-f360-497c-96bd-d80363655ea1)
+![WhatsApp Image 2025-11-16 at 5 28 19 PM](https://github.com/user-attachments/assets/40c35225-813d-47d9-acd7-67ade14f88e6)
+
 
 
 For region selection, choose a region from the available list. It is recommended to select a region nearby your location for higher availability. In this lab, I selected Sydney, as it is near my country, New Zealand. Remember to provide a unique bucket name with no special characters or uppercase letters.
