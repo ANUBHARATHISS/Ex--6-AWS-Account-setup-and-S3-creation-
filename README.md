@@ -38,8 +38,9 @@ For region selection, choose a region from the available list. It is recommended
 
 Now, I have uploaded some files into the bucket I just created. There are no restrictions on uploading file types, but the size of each file must be less than 5 terabytes.
 
-![image](https://github.com/user-attachments/assets/de51c34d-fb2b-4d74-89ba-eef97e5ef990)
-![image](https://github.com/user-attachments/assets/3a137296-7bce-474e-9aee-90f1270da0b5)
+![WhatsApp Image 2025-11-16 at 5 06 30 PM](https://github.com/user-attachments/assets/75323663-1c1d-493f-afbd-c4a0b4c1d3fb)
+![WhatsApp Image 2025-11-16 at 5 06 45 PM](https://github.com/user-attachments/assets/36e80324-69c9-4bfb-9c39-255c72d34416)
+
 
 You can upload files of any extension, folders, and subfolders. The images below explain that you can drag and drop files or select them from your computer. After uploading a file, you can download, cut, copy, make it public, rename, or delete it. Making a file public means everyone can access it, and you will receive a link (e.g., `https://s3-ap-southeast-2.amazonaws.com/...`) to share it.
 
