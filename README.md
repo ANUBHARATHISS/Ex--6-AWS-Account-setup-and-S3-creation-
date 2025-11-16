@@ -45,7 +45,7 @@ Now, I have uploaded some files into the bucket I just created. There are no res
 
 You can upload files of any extension, folders, and subfolders. The images below explain that you can drag and drop files or select them from your computer. After uploading a file, you can download, cut, copy, make it public, rename, or delete it. Making a file public means everyone can access it, and you will receive a link (e.g., `https://s3-ap-southeast-2.amazonaws.com/...`) to share it.
 
-![WhatsApp Image 2025-11-16 at 5 32 53 PM](https://github.com/user-attachments/assets/0af24b66-ea7c-4993-bd40-53a801ffe888)
+![WhatsApp Image 2025-11-16 at 5 35 26 PM](https://github.com/user-attachments/assets/25828596-9f55-456b-a7c9-cf5c8aa6ae23)
 ![WhatsApp Image 2025-11-16 at 5 37 58 PM](https://github.com/user-attachments/assets/45d81a34-886c-489e-ab89-1f64b4ca5a69)
 
 
