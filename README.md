@@ -29,7 +29,7 @@ After selecting the S3 service, click on the "Create Bucket" button on the page.
 ![WhatsApp Image 2025-11-16 at 5 02 10 PM](https://github.com/user-attachments/assets/01506903-28f2-425f-8cc4-c9caf120dc6f)
 ![WhatsApp Image 2025-11-16 at 5 02 26 PM](https://github.com/user-attachments/assets/af8aef88-49eb-4799-9ff9-f92e0fc1fce8)
 ![WhatsApp Image 2025-11-16 at 5 28 19 PM](https://github.com/user-attachments/assets/ef109c18-f360-497c-96bd-d80363655ea1)
-![WhatsApp Image 2025-11-16 at 5 28 19 PM](https://github.com/user-attachments/assets/40c35225-813d-47d9-acd7-67ade14f88e6)
+![WhatsApp Image 2025-11-16 at 5 27 10 PM](https://github.com/user-attachments/assets/d4fd3323-eeb8-435a-a562-e68d4045c829)
 
 
 
