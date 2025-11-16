@@ -44,22 +44,22 @@ Now, I have uploaded some files into the bucket I just created. There are no res
 
 You can upload files of any extension, folders, and subfolders. The images below explain that you can drag and drop files or select them from your computer. After uploading a file, you can download, cut, copy, make it public, rename, or delete it. Making a file public means everyone can access it, and you will receive a link (e.g., `https://s3-ap-southeast-2.amazonaws.com/...`) to share it.
 
-![image](https://github.com/user-attachments/assets/9938ef1e-7e40-49e8-a44b-18c0610ecac4)
-![image](https://github.com/user-attachments/assets/907b9eae-d631-4936-948b-81c2e5c4e5a2)
+![WhatsApp Image 2025-11-16 at 5 10 22 PM](https://github.com/user-attachments/assets/c3be7d22-c7e9-44e9-a840-05d5575ea210)
+![WhatsApp Image 2025-11-16 at 5 11 54 PM](https://github.com/user-attachments/assets/7a4b8299-399c-4267-a80b-4e3265bf6b7f)
 
 
 ### Step 4: Upload a Folder
 
 You can also upload a folder to the bucket. If your local folder contains subfolders and data, all data inside the parent folder will be uploaded. The images below show how to upload a folder by dragging and dropping or browsing.
+![WhatsApp Image 2025-11-16 at 5 15 04 PM](https://github.com/user-attachments/assets/efaf15cf-9ab5-47c8-8cc4-902a54201cce)
 
-![image](https://github.com/user-attachments/assets/f0ad8c4e-0d66-490f-a4e0-3ecc1d39ba25)
 
 ### Step 5: Delete the Bucket
 
 To delete a bucket, you must retype the bucket name. This policy is implemented by Amazon to confirm your action because deleting a bucket can remove large amounts of data.
+![WhatsApp Image 2025-11-16 at 5 15 04 PM](https://github.com/user-attachments/assets/6d4442de-ffa3-44d2-b9df-6641106e037e)
+![WhatsApp Image 2025-11-16 at 5 18 17 PM](https://github.com/user-attachments/assets/61ff3ef8-6d09-4e52-8a1c-d41e6206d096)
 
-![image](https://github.com/user-attachments/assets/c09b5618-9d48-4d70-b59a-e76dd9c163f6)
-![image](https://github.com/user-attachments/assets/28c379ea-5ad1-4056-bb86-cb79bd9a3fa7)
 
 ## Result
 
